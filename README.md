@@ -5,4 +5,4 @@
 + Vert.x是一个用于下一代异步、可伸缩、并发应用的框架，旨在为JVM提供一个Node.js的替代方案。开发者可以通过它使用JavaScript、Ruby、Groovy、Java、甚至是混合语言来编写应用。
 + vert.x——JVM上的Node.js替代者:<http://www.infoq.com/cn/news/2012/05/vertx>
 + 关于Java框架Vert.x的几点思考:<http://www.csdn.net/article/2015-05-20/2824733-Java>
-
++ Vert.x 线程模型揭秘:<http://colobu.com/2016/03/31/vertx-thread-model/>
